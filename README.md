@@ -1,2 +1,4 @@
 # LeetCode
-My LeetCode Record
+| Leetcode Number | Type |  Level | Solution | Code |
+| :-: | :---: | :---: | :-- | :---: |
+|   | |  |  |  |  |
